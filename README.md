@@ -4,11 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llabhill&label=Profile%20views&color=0e75b6&style=flat" alt="llabhill" /> </p>
 
 <h3 align="left">About me:</h3>
-- I'm a junior-year Computer Science and Engineering student at Madan Mohan Malaviya University of Technology
-- Passionate about leveraging technology to solve real-world problems and enhance user experiences.
-- I enjoy building scalable, secure and user-friendly Web Applications
-- I have a strong foundation in C++
-- A quick Learner always eager to adapt new technologies and challenges
+<div align="left">
+<p>• I'm a junior-year Computer Science and Engineering student at Madan Mohan Malaviya University of Technology</p>
+<p>• Passionate about leveraging technology to solve real-world problems and enhance user experiences</p>
+<p>• I enjoy building scalable, secure and user-friendly Web Applications</p>
+<p>• I have a strong foundation in C++</p> 
+<p>• A quick Learner always eager to adapt new technologies and challenges</p>
+</div>
 
 - 💬 Talk me about **MERN Stack, C++**
 
