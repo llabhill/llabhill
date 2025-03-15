@@ -1,25 +1,30 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Full Stack MERN Developer From India</h3>
-<img align="right" alt="coding" width="500" src="https://github.com/user-attachments/assets/74526c2e-d54a-4745-be45-40111e0e9959">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=llabhill&label=Profile%20views&color=0e75b6&style=flat" alt="llabhill" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=llabhill&label=Profile%20views&color=0e75b6&style=flat" alt="llabhill"/> </p>
 
-<h3 align="left">About me:</h3>
-<div align="left">
-<p>• I'm a junior-year Computer Science and Engineering student at Madan Mohan Malaviya University of Technology</p>
-<p>• Passionate about leveraging technology to solve real-world problems and enhance user experiences</p>
-<p>• I enjoy building scalable, secure and user-friendly Web Applications</p>
-<p>• I have a strong foundation in C++</p> 
-<p>• A quick Learner always eager to adapt new technologies and challenges</p>
-</div>
+<img align="right" alt="coding" width="450" src="https://github.com/user-attachments/assets/74526c2e-d54a-4745-be45-40111e0e9959">
+
+### About Me :
+- I'm a junior-year Computer Science and Engineering student at Madan Mohan Malaviya University of Technology
+
+- Passionate about leveraging technology to solve real-world problems and enhance user experiences
+
+- I have a strong foundation in C++
+- I enjoy building scalable, secure and user-friendly Web Applications
+- A quick Learner always eager to adapt new technologies and challenges
+
+
+---
 
 - 💬 Talk me about **MERN Stack, C++**
 
 - 📫 How to reach me **abhisheksinghmd2202@gmail.com**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/llabhi02ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="llabhi02ll" height="30" width="40" /></a>
-<a href="https://instagram.com/itsabhi02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsabhi02" height="30" width="40" /></a>
+<a href="https://instagram.com/itsabhi_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsabhi02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
