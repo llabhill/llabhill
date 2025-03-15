@@ -3,7 +3,14 @@
 <img align="right" alt="coding" width="500" src="https://github.com/user-attachments/assets/74526c2e-d54a-4745-be45-40111e0e9959">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llabhill&label=Profile%20views&color=0e75b6&style=flat" alt="llabhill" /> </p>
 
-- 💬 Ask me about **MERN Stack, C++**
+<h3 align="left">About me:</h3>
+- I'm a junior-year Computer Science and Engineering student at Madan Mohan Malaviya University of Technology
+- Passionate about leveraging technology to solve real-world problems and enhance user experiences.
+- I enjoy building scalable, secure and user-friendly Web Applications
+- I have a strong foundation in C++
+- A quick Learner always eager to adapt new technologies and challenges
+
+- 💬 Talk me about **MERN Stack, C++**
 
 - 📫 How to reach me **abhisheksinghmd2202@gmail.com**
 
