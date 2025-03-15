@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Full Stack MERN Developer From India</h3>
-
+<img align="right" alt="coding" width="500" src="https://github.com/user-attachments/assets/74526c2e-d54a-4745-be45-40111e0e9959">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llabhill&label=Profile%20views&color=0e75b6&style=flat" alt="llabhill" /> </p>
 
 - 💬 Ask me about **MERN Stack, C++**
