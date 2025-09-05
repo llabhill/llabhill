@@ -5,8 +5,7 @@
 <img align="right" alt="coding" width="450" src="https://github.com/user-attachments/assets/74526c2e-d54a-4745-be45-40111e0e9959">
 
 ### About Me :
-👋 Hi, I’m Abhishek Singh, a final-year Computer Science and Engineering student at Madan Mohan Malaviya University of Technology.
-
+- A final year Computer Science and Engineering student at Madan Mohan Malaviya University of Technology
 - 💻 Strong foundation in C++ and problem-solving
 - 🌐 Passionate about building scalable, secure, and user-friendly web applications
 - ⚡ Experienced in the MERN stack with a focus on clean architecture and performance
