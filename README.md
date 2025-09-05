@@ -5,18 +5,22 @@
 <img align="right" alt="coding" width="450" src="https://github.com/user-attachments/assets/74526c2e-d54a-4745-be45-40111e0e9959">
 
 ### About Me :
-- I'm a junior-year Computer Science and Engineering student at Madan Mohan Malaviya University of Technology
+👋 Hi, I’m Abhishek Singh, a final-year Computer Science and Engineering student at Madan Mohan Malaviya University of Technology.
 
-- Passionate about leveraging technology to solve real-world problems and enhance user experiences
-
-- I have a strong foundation in C++
-- I enjoy building scalable, secure and user-friendly Web Applications
-- A quick Learner always eager to adapt new technologies and challenges
+- 💻 Strong foundation in C++ and problem-solving
+- 🌐 Passionate about building scalable, secure, and user-friendly web applications
+- ⚡ Experienced in the MERN stack with a focus on clean architecture and performance
+- 🔍 Interested in real-world problem-solving through innovative tech solutions
+- 🚀 Quick learner, always eager to explore emerging technologies and take on new challenges
+- 🛠️ Projects include TechShala (EdTech Platform), interview tools, and security-focused web apps
+- 🤝 Open to collaboration on impactful open-source projects and research-based solutions
 
 
 ---
 
 - 💬 Talk me about **MERN Stack, C++**
+
+- 🌱 Currently Working on Security of Existing CAPTCHAs
 
 - 📫 How to reach me **abhisheksinghmd2202@gmail.com**
 ---
